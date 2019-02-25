@@ -1,0 +1,44 @@
+=== Techniques ===
+- Attack (アタック) - A basic Expertise Skill for close-range combat.
+- Spin (スピン) - A Technical Expertise Skill for attacking multiple enemies in close-range combat.
+- Rush (ラッシュ) - An Expertise Skill that breaks down your opponent's Guard and unleashes a mighty blow.
+- Shot (ショット)- A basic Expertise Skill for long-range attack.
+- Rapid (ラピッド) - A Technical Expertise Skill for attacking enemies in quick succession in mid-range combat.
+- Guard (ガード) - A basic Expertise Skill for protecting oneself from enemy attacks.
+- Counter (カウンター) - A Technical Expertise Skill that nullifies an enemy's attack and responds with a counterattack.
+- Dodge (ダッジ) - A Technical Expertise Skill that evades long-distance attacks and provides an opening to respond.
+- Curative Magic (回復魔法) - An Expertise Skill that provides magic to heal your allies.
+- Destruction Magic (破壊魔法) - An Expertise Skill that provides magic to damage enemies at a distance.
+- Support Magic (支援魔法) - An Expertise Skill that provides magic to make your allies stronger.
+- Curse Magic (呪詛魔法) - An Expertise Skill that provides magic to make your enemies weaker.
+- Talk (対話) - An Expertise Skill for negotiation. Gently approach and befriend an opponent.
+- Threaten (威圧) - An Expertise Skill for negotiation. Threaten and strong arm an opponent into the party.
+- Taunt (挑発) - An Expertise Skill for negotiation. Taunt an opponent and turn their attacks towards the party.
+- Summon (召喚) - An Expertise Skill for summoning demons. 
+=== /Techniques ===
+
+=== Knowledges ===
+- Occultism (神秘学) - An expertise skill for the knowledge and understanding of phenomena that cannot be explained by common sense or modern science.
+- Fusion (合体) - An Expertise Skill for fusing demons.
+- Demonology (悪魔学) - An Expertise Skill for the understanding of demonic lifeforms.
+- Weapon Knowledge (武器知識) - An Expertise Skill for the knowledge of swords and other close-range equipment.
+- Survival Techniques (生存技術) - An Expertise Skill for survival know-how.
+- Psychology (心理学) - An Expertise Skill for human and demon psychology.
+- Medical Sciences (医学) - An Expertise Skill for the healing arts.
+- Crushing Technique (撃破技術) - An Expertise Skill for crushing your enemies.
+- Mineralogy (鉱物学) - An Expertise Skill for the knowledge and understanding of mineral ores.
+- Biology (生物学) - An Expertise Skill for the knowledge and understanding of living things.
+- Botany (植物学) - An Expertise Skill for the knowledge and understanding of plants. Not yet implemented.
+- Mechanical Engineering (機械工学) - An Expertise Skill for the knowledge and understanding of various mechanisms. Not yet implemented.
+- Information Engineering (情報工学) - An Expertise Skill for the knowledge and understanding of computers. Not yet implemented.
+- Blades (刃物) - An Expertise Skill for the proper handling of all types of blades.
+- Sketching (栽工技術) - An Expertise Skill for the capability to observe an object's complexity and effectively reproduce it on paper.
+- Creation (外丹) - An Expertise Skill for the capability to create something with a given form.
+- Crafts (工作) - An Expertise Skill for the proper handling of complex structures.
+- Firearms Knowledge (火器知識) - An Expertise Skill for the proper handling of fire and firearms. Not yet implemented.
+- Gun Knowledge (銃器知識) - An Expertise Skill for the proper handling of guns.
+- Pursuit (追撃) - An Expertise Skill for connecting a variety of attacks.
+- Magic Control (操魔) - An Expertise Skill for controlling magical power in addition to various types of attacks.
+- Bless (祝福) - An Expertise Skill for bestowing the various blessings of magic upon others. 
+=== /Knowledges ===
+

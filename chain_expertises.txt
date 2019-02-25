@@ -1,0 +1,148 @@
+=== Chain Expertise ===
+
+- Mastery of Three Forms of Life (三元の巧) - A Battle Expertise Skill for the truly skilled.
+    === REQUIREMENTS ===
+        Requirement to unlock: Level 98+, Act XX Clear, Complete various quests.
+
+            1-0 Skill is unlocked by clearing Act XX.
+            1-2 Skill is unlocked by completing the Mastery of Three Forms of Life (1) quest from Saint Germain
+            1-4 Skill is unlocked by completing the Mastery of Three Forms of Life (2) quest from Saint Germain
+            1-6 Skill is unlocked by completing the Mastery of Three Forms of Life (3) quest from the Slime in Home 2's Residential Area
+            All three quests have a Level 98+ requirement. 
+    === /REQUIREMENTS ===
+    - Gains Expertise equal to 20% of Weapon Knowledge level.
+    - Gains Expertise equal to 20% of Gun Knowledge level.
+    - Gains Expertise equal to 20% of Magic Control level.
+    - Gains Expertise equal to 20% of Bless level.
+
+- Synthesis (融合) - A Production Expertise Skill for changing demons into crystals and for fusing equipment.
+    === REQUIREMENTS ===
+        Requirements to unlock: Occultism at Class 1-0.
+    === /REQUIREMENTS ===
+    - Gains expertise equal to 40% of your Occultism level.
+    - Gains expertise equal to 40% of your Demonology level.
+    - Gains expertise equal to 10% of your Weapon Knowledge level.
+    - Gains expertise equal to 10% of your Mineralogy level.
+
+- Magic Fist (魔崩拳) - A Battle Expertise Skill for staging an assault while enveloped in destructive magical energy. [Old Demolition Dash]
+    === REQUIREMENTS ===
+        Requirements to unlock: Rush at Class 1-0, Destruction Magic at Class 1-0, Magic Control at Class 1-0.
+    === /REQUIREMENTS ===
+    - Requirements to unlock: Rush at Class 1-0, Destruction Magic at Class 1-0, Magic Control at Class 1-0.
+    - Gains expertise equal to 30% of your Rush level.
+    - Gains expertise equal to 30% of your Destruction Magic level.
+    - Gains expertise equal to 40% of your Magic Control level.
+
+- Mitama Demon Growth Science (御魂悪魔育成学) - An expertise for training your Mitama fused Demon.
+    === REQUIREMENTS ===
+        Requirements to unlock: Demonology at Class 3-0, Psychology at Class 2-0.
+    === /REQUIREMENTS ===
+    ⁻ Gains expertise equal to 60% of your Demonology level.
+    - Gains expertise equal to 40% of your Psychology level.
+
+- Curse of the Wretched (忌門禁呪の法) - A Battle Expertise Skill for controlling curse magic over a wide area for indirect assistance in battle.
+    === REQUIREMENTS ===
+        Requirements to unlock: Destruction Magic at Class 1-0, Curse Magic at Class 2-0, Magic Control at Class 1-0, Bless at Class 1-0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 10% of your Destruction Magic level.
+    Gains expertise equal to 50% of your Curse Magic level.
+    Gains expertise equal to 20% of your Magic Control level.
+    Gains expertise equal to 20% of your Bless level.
+
+- Enhancement (エンハンスメント) - A Battle Expertise Skill for controlling recovery and support magic over a wide area to assist one's allies.
+    === REQUIREMENTS ===
+        Requirements to unlock: Curative Magic at Class 2-0, Support Magic at Class 2-0, Bless at Class 1-0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 30% of your Curative Magic level.
+    Gains expertise equal to 40% of your Support Magic level.
+    Gains expertise equal to 30% of your Bless level.
+
+- Support Bullet (援弾の射手) - A Battle Expertise for helping allies using a firearm.
+    === REQUIREMENTS ===
+        Requirements to unlock: Rapid at Class 2-0, Support Magic at Class 2-0, Bless at Class 2-0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 20% of your Rapid level.
+    Gains expertise equal to 40% of your Support Magic level.
+    Gains expertise equal to 40% of your Bless level.
+
+- Magic Bullet (魔弾の射手) - A Battle Expertise Skill for endowing gunshots with curse magic and elemental abilities.
+    === REQUIREMENTS ===
+        Requirements to Unlock: Shot at Class 2-0, Curse Magic at Class 2-0, Gun Knowledge at Class 1-0, Magic Control at Class 1-0
+    === /REQUIREMENTS ===
+    Gains expertise equal to 30% of your Shot level.
+    Gains expertise equal to 10% of your Curse Magic level.
+    Gains expertise equal to 40% of your Gun Knowledge level.
+    Gains expertise equal to 20% of your Magic Control level.
+
+- Sharpshooter (シャープシュート) - A Battle Expertise Skill for enhancing the damage guns do against certain demon species.
+    === REQUIREMENTS ===
+        Requirements to unlock: Shot at Class 2-0, Demonology at Class 2-0, Gun Knowledge at Class 1-0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 40% of your Shot level.
+    Gains expertise equal to 40% of your Demonology level.
+    Gains expertise equal to 20% of your Gun Knowledge level.
+
+- Rampage (ランページ) - A Battle Expertise Skill for dealing with violent enemies, effective in close-quarter combat.
+    === REQUIREMENTS ===
+        Requirement to unlock: Attack 2-0, Spin 2-0, Rush 2-0, Pursuit 3-0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 20% of Attack Skill.
+    Gains expertise equal to 20% of Spin Skill.
+    Gains expertise equal to 20% of Rush Skill.
+    Gains expertise equal to 40% of Pursuit Skill. 
+
+- Regal Presence (王者の風格) - A Battle Expertise Skill for enhancing the damage certain weapons do with appropriate disadvantages.
+    === REQUIREMENTS ===
+        Requirements to Unlock: Attack at Class 2-0, Weapon Knowledge at Class 1-0, and Survival Techniques at Class 1-0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 20% of your Attack level.
+    Gains expertise equal to 40% of your Weapon Knowledge level.
+    Gains expertise equal to 40% of your Survival Techniques level.
+
+- Conditions of Melee Combat (近接戦闘の境地) - A Battle Expertise for the person who has mastered close-quarter combat.
+    === REQUIREMENTS ===
+        Requirements to unlock: Weapon Knowledge at Class 3-0, Crushing Technique at Class 3-0, Demonology at Class 1-0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 40% of your Weapon Knowledge level.
+    Gains expertise equal to 40% of your Crushing Technique level.
+    Gains expertise equal to 20% of your Demonology level.
+
+- Conditions of Ranged Combat (射撃戦闘の境地) - A Battle Expertise for the person who has mastered long-ranged combat.
+    === REQUIREMENTS ===
+        Requirements to unlock: Gun Knowledge at Class 3-0, Crushing Technique at Class 3-0, Demonology at Class 1-0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 40% of your Gun Knowledge level.
+    Gains expertise equal to 40% of your Crushing Technique level.
+    Gains expertise equal to 20% of your Demonology level.
+
+- Conditions of Magic Combat (魔法戦闘の境地) - A Battle Expertise for the person who has mastered magic combat.
+    === REQUIREMENTS ===
+        Requirements to unlock: Magic Control at Class 3-0, Crushing Technique at Class 3-0, Demonology at Class 1-0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 40% of your Magic Control level.
+    Gains expertise equal to 40% of your Crushing Technique level.
+    Gains expertise equal to 20% of your Demonology level.
+
+- Swordsmith (刀匠) - A Production Expertise Skill for making close-range arms following acquired "recipes".
+    === REQUIREMENTS ===
+        Requirements to unlock: Blades at Class 1 - Rank 0, Weapon Knowledge at Class 1 - Rank 0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 80% of your Blades level.
+    Gains expertise equal to 20% of your Weapon Knowledge level.
+
+- Arms Maker (アームズメイカー) - A Production Expertise Skill for making guns following acquire "recipes".
+    === REQUIREMENTS ===
+        Requirements to unlock: Crafts at Class 1 - Rank 0, Gun Knowledge at Class 1 - Rank 0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 80% of your Crafts level.
+    Gains expertise equal to 20% of your Gun Knowledge level.
+
+- Craftsmanship (煉丹術) - A Production Expertise Skill for engraving, processing, and sewing.
+    === REQUIREMENTS ===
+        Requirements to Unlock: Creation at Class 1-0, Medical Sciences at Class 2-0.
+    === /REQUIREMENTS ===
+    Gains expertise equal to 60% of your Creation level.
+    Gains expertise equal to 20% of your Medical Sciences level.
+    Gains expertise equal to 20% of your Sketching level.
+
+=== /Chain Expertise ===
